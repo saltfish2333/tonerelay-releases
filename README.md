@@ -2,7 +2,7 @@
 
 Official downloads and release notes for ToneRelay for Windows 10/11 x64. Stream Windows default-output audio to HomePod and HomePod mini over your local network.
 
-- [Download the Windows installer](https://github.com/saltfish2333/tonerelay-releases/releases/download/v0.1.0-firewall-repair/ToneRelay-0.1.0-windows-x64-unsigned-setup.exe)
+- [Download ToneRelay 0.1.1 for Windows](https://github.com/saltfish2333/tonerelay-releases/releases/download/v0.1.1/ToneRelay-0.1.1-windows-x64-unsigned-setup.exe)
 - [Releases and SHA-256 checksums](https://github.com/saltfish2333/tonerelay-releases/releases)
 - [Website and setup guide](https://tonerelay.com/)
 - [Support](mailto:support@tonerelay.com)
@@ -13,7 +13,7 @@ Includes a 7-day free trial. The current installer is **unsigned / not code-sign
 
 ToneRelay Windows 10/11 x64 版的官方下载与更新说明仓库。通过局域网，将 Windows 默认输出音频播放到 HomePod 和 HomePod mini。
 
-- [下载 Windows 安装包](https://github.com/saltfish2333/tonerelay-releases/releases/download/v0.1.0-firewall-repair/ToneRelay-0.1.0-windows-x64-unsigned-setup.exe)
+- [下载 ToneRelay 0.1.1 Windows 安装包](https://github.com/saltfish2333/tonerelay-releases/releases/download/v0.1.1/ToneRelay-0.1.1-windows-x64-unsigned-setup.exe)
 - [查看发布版本与 SHA-256 校验文件](https://github.com/saltfish2333/tonerelay-releases/releases)
 - [官网与使用教程](https://tonerelay.com/zh/)
 - 支持邮箱：support@tonerelay.com
